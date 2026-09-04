@@ -2,7 +2,7 @@
 
 ## Race Logic
 * **[2014]** | [Race Logic: A hardware acceleration for dynamic programming algorithms](https://sites.cs.ucsb.edu/~sherwood/pubs/ISCA-14-racelogic.pdf)
-* **[2022]** | [Computing with Temporal Operators]([https://link-to-paper.com](https://escholarship.org/uc/item/6b0613nh))
+* **[2022]** | [Computing with Temporal Operators](https://escholarship.org/uc/item/6b0613nh)
 * **[2022]** | [PyLSE: a pulse-transfer level language for superconductor electronics](https://dl.acm.org/doi/10.1145/3519939.3523438)
 * **[2025]** | [SEAL: A Single-Event Architecture for In-Sensor Visual Localization](https://dl.acm.org/doi/10.1145/3695053.3731034)
 * **[2019]** | [Boosted Race Trees for Low Energy Classification](https://dl.acm.org/doi/10.1145/3297858.3304036)
